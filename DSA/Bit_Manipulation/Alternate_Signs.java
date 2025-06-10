@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class Alternate_Signs {
     public int[] rearrangeArray(int[] nums) {
         ArrayList<Integer> positives = new ArrayList<>();

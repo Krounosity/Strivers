@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class Find_the_Union {
     public int[] unionArray(int[] nums1, int[] nums2) {
         
