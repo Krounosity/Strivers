@@ -1,5 +1,3 @@
-package Interview_Question;
-
 public class Single_Number {
 
     public int singleNumber(int[] nums) {

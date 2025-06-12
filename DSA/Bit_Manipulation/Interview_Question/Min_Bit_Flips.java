@@ -1,5 +1,3 @@
-package Interview_Question;
-
 class Min_Bit_Flips {
     public int minBitFlips(int start, int goal) {
         // We need to flip the bits which are not the same
